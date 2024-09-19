@@ -1,0 +1,44 @@
+.projects {
+    padding: 80px 20px;
+    background: #ffffff; 
+    color: #333333; 
+  }
+  
+  .projects h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #333333;
+  }
+  
+  .project-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .project-item {
+    width: 300px;
+    background: #f0f0f0; 
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .project-item img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .project-item h3 {
+    margin: 15px 10px 5px 10px;
+    font-size: 1.5rem;
+    color: #333333; 
+  }
+  
+  .project-item p {
+    margin: 0 10px 15px 10px;
+    font-size: 1rem;
+    color: #000000; 
+  }
+  
